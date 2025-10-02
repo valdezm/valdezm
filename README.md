@@ -1,5 +1,6 @@
 # Hi there! 👋
-<img width="1259" height="504" alt="Screenshot 2025-10-02 140011" src="https://github.com/user-attachments/assets/abc7c1b6-57e0-4a71-a79e-a5bf028e290a" />
+<img width="1207" height="455" alt="Screenshot 2025-10-02 140011" src="https://github.com/user-attachments/assets/62d54cdc-c525-42e5-a20d-91657edc375c" />
+
 
 My name is **Mark Valdez** and I'm a builder. I'm a Computer Scientist with an extremely diverse skill-set and a passion for adopting emerging technologies to solve early stage startup problems. I've been building software solutions for over 15 years, starting as an instructor developing Computer Science curriculum, and working my way through startups, enterprise companies, and now as a founder.
 
